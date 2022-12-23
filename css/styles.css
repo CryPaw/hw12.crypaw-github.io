@@ -1194,7 +1194,6 @@ display: block;
     background: url('../img/Group\ 1.png') 0 0px;
     width: 83px;
     height: 83px;
-/*     outline: 2px solid rebeccapurple; */
     display: block;
     transition: background .5s ease
 }
